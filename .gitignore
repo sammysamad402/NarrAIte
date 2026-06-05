@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+.pytest_cache/
+
+*.pyc
+
+.ipynb_checkpoints/
+
+exports/*
+saves/*
+
+!exports/.gitkeep
+!saves/.gitkeep
