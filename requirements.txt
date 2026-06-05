@@ -1,4 +1,7 @@
+openai
+python-dotenv
 pandas
 matplotlib
 networkx
 reportlab
+pytest
